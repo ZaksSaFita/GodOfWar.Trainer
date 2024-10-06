@@ -40,7 +40,7 @@ namespace PcGameTrainer_v._1._0
             else
             {
                 isToggled2 = true;
-                toggleButton2.BackColor = Color.Green;
+                toggleButton2.BackColor = Color.Blue;
                 toggleButton2.Text = "ON";
             }
         }
