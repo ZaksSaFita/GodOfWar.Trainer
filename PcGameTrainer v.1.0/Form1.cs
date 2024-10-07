@@ -17,7 +17,7 @@ namespace PcGameTrainer_v._1._0
         {
             if (isToggled1)
             {
-                toggleButton1.BackColor = Color.Red;
+                toggleButton1.BackColor = Color.purple;
                 toggleButton1.Text = "OFF";
                 isToggled1 = false;
             }
